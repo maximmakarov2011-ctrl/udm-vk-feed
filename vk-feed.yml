@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="">
+  <shop>
+    <name>UDM GROUP</name>
+    <company />
+    <url>https://udmgroup.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="2">Не указана</category>
+      <category id="3">Посуда и инвентарь</category>
+      <category id="10">Лотки для приборов</category>
+      <category id="11">Подносы для шашлыка</category>
+      <category id="12" parentId="3">Подставки для чайных пакетиков</category>
+      <category id="13" parentId="3">Подставки для специй</category>
+      <category id="17">Столики на кровать</category>
+    </categories>
+    <offers>
+      <offer id="019f09ef-d491-7648-8227-c526e3fad6cb" available="true">
+        <name>UDM GROUP Столик-поднос «Рассвет» из берёзы</name>
+        <url>https://udmgroup.ru/products/stolik-rassvet-dlya-zavtraka-v-postel-100017</url>
+        <price>1100</price>
+        <oldprice>1400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Столик-поднос из натуральной берёзы. Нагрузка до 20 кг. Подходит для завтрака в постель, работы с планшетом.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/j7hzvdqpr72tvx7kmrb5c27bxlkxjdmp/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/jl9m824ntk679xqkdwx67279gtc6dmgt/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/qh65kwmr77x2vz88fg7zgvtnwq854q72/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/mlnbhd5w4jfcmnbs79v4blq29mwh9rwc/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/hhjgldlxbvbd6lz7b8gtkwzz9dr94b79/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-d4be-7648-8216-22cffd91656b" available="true">
+        <name>UDM GROUP Поднос-подставка для шашлыка</name>
+        <url>https://udmgroup.ru/products/podnos-podstavka-posuda-dlya-shashlyka-na-dachu-skladnoiy-100018</url>
+        <price>2600</price>
+        <oldprice>4100</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный складной поднос от UDM GROUP. Выдерживает до 20 кг, с бортиками. Для пикника и дома.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/hdfjsgkw78qpdch9mw95mnr4shsfwbmb/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/2tw788cfnzkgzvjqjgmjjbmpg996tq5v/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21696355/nfprplx8j2468v9kqhlt57z5c9fpg8kg/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/qdvxvzmndg6d9xkjmv88f8sgh8hs2kgr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/476vpvjgtd94xlrl75rppk58llw8wsmf/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">нержавеющая сталь, дерево, фанера</param>
+      </offer>
+      <offer id="019f09ef-d5df-7648-bdd3-44e77e2a7b04" available="true">
+        <name>UDM GROUP Столик-поднос для завтрака</name>
+        <url>https://udmgroup.ru/products/-sdelaiy-sam-100024</url>
+        <price>900</price>
+        <oldprice>1750</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Складной столик из натурального дерева. Подходит для завтрака в постель, подставки ноутбука, книг.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/hw82dcn4b7vsnvdxhdv442dnf5l5dbnv/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/rc2r48v4gz4smlnjcz8z7tjm4ftzqngn/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/r6fpt42jx2nmp6g5j7fslcmrpcfvjj99/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/bvrjt5m4nz2xskpr5tt8hhh69h86z42x/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18780052/gdlxtcpwqtwtnmk4zh9dm72c86ljvh8d/x2560</picture>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-d85a-7648-bdf4-e5d97388389a" available="true">
+        <name>UDM GROUP Столик-поднос «Уют» прикроватный</name>
+        <url>https://udmgroup.ru/products/stolik-uyut-dlya-zavtraka-v-postel-100038</url>
+        <price>1250</price>
+        <oldprice>1750</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Прикроватный столик-поднос из берёзовой фанеры. Выдерживает до 20 кг, лёгкий, с бортиками и ручками.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/m6g79zp6vwjc2bsb7xkxp9np4nqfhfv8/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/ghpjftj9xj9gsfwr72cn8zdd6tb48wqw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/rdp8fkjlpc7br47pb9brfcm47cqsc2hp/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/bt685dstfdmvr5r6wt2t7clvcqsd8sss/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/96xfhz28qfwsdmrnnnnwn9qjr288z5g6/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-d93d-7648-a9eb-9db48c241a8a" available="true">
+        <name>UDM GROUP Лоток для приборов раздвижной 45–60 см</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-34-64h44sm-100043</url>
+        <price>2100</price>
+        <oldprice>2450</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток из натурального дерева. Регулируется под ширину ящика, съёмные крылья, отделения для приборов.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/rnhl6ftv2fsjhmdnh29pzhmqsksjvpwr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/gvrhpf4z8bmgqq5c7bx9f96j5569rx4w/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20760651/wd89qnwwmfzzkv7hmh5hqjpwgnb97k7m/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/v7rzn9wb6dnf9mxgc645wfmzbsspk27v/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/qsc8hq5qvdppr66h9lbx2rfcfkfwjmqd/x2560</picture>
+        <param name="Количество отсеков">8</param>
+        <param name="Подходит для ящика">40, 45, 50, 55, 60</param>
+      </offer>
+      <offer id="019f09ef-da3e-7648-9574-c77851e78d13" available="true">
+        <name>UDM GROUP Лоток для приборов раздвижной 50–80 см</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-40-80sm-bolshoi-100049</url>
+        <price>4200</price>
+        <oldprice>4850</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток из натурального дерева для кухонных ящиков. Регулировка ширины, съёмные крылья, много отделений.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/xbkf8vhwbm9rqwdh4lrxwjz2mbrtcjkr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/5l4kdnk8w5b6k89m827tbtdtc4z9qz4q/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/dnjxt4tk9cqcnzx4xgzf82wkbmdgwpdm/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/sk5sx6d5zfkjbt5v8mkbfsn69bmhgd5p/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/hhsbglllwbr6mnjpfh98flvgf65gnpb5/x2560</picture>
+        <param name="Количество отсеков">9</param>
+        <param name="Подходит для ящика">45, 50, 55, 60, 70, 80</param>
+      </offer>
+      <offer id="019f09ef-da8d-7648-8d90-bc82dae98215" available="true">
+        <name>Лоток для приборов UDM GROUP, 40 см, деревянный</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-32h42sm-100051</url>
+        <price>2200</price>
+        <oldprice>2400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный лоток от UDM GROUP — практичное решение для ящика. Отделения разной ширины, цельная конструкция.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/zk9m9dnnxnmpl7bs9grgwjjckhbmnhhl/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/4p9qmwnn76fvpw48dccdtntfrpg7mvc4/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/rz5rxdhww42w7h4ll5gw72lpsbkcflpw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/9smqts6zz5w2z6jj82xgq76pqd67qszf/x2560</picture>
+        <param name="Количество отсеков">6</param>
+        <param name="Подходит для ящика">35, 40</param>
+      </offer>
+      <offer id="019f09ef-db49-7648-9fec-6941f8f49307" available="true">
+        <name>UDM GROUP Лоток для приборов раздвижной 40–50 см</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-26-50h36sm-100055</url>
+        <price>2200</price>
+        <oldprice>2400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток из дерева от UDM GROUP. Регулировка 26–50 см, отделения для вилок, ложек, ножей.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/prq2r866p9v47pfd5g6p6wzs7sp9pchc/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/lq2cnw9z8xt4n22tkh2pf2wp7q4dqgv8/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/m4qzct47hrxlf44n9wl5j87dc776s2nt/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18793859/l785jp8nzqjk8r6rg827c682jfgmcl8n/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/pfd58c4l24r8srjxvgwrs7prb8xfmkm6/x2560</picture>
+        <param name="Количество отсеков">6</param>
+        <param name="Подходит для ящика">30, 35, 40, 45, 50</param>
+      </offer>
+      <offer id="019f09ef-db77-7648-ac57-b972b9a8c6f6" available="true">
+        <name>UDM GROUP Столик «Изящный» для ноутбука 50×30 см</name>
+        <url>https://udmgroup.ru/products/stolik-izyashchnyy-dlya-zavtraka-i-noutbuka-100056</url>
+        <price>1250</price>
+        <oldprice>1600</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный столик от UDM GROUP — для работы и завтрака в постели. Выдерживает до 20 кг, складные ножки.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/2fhxdmgspnznmh2n54rwdbml6qjrvsv7/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/xkhpqfjg9kcpxhhh6rdfpx8xrlskl5nd/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/x26flr9fcvtf94j8lvv2crstwq52tt4z/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20776375/cmdmkv5tdzws9rghrwrq9gsk4948v849/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20760651/qtzd2vhckkzbgwr48ss7zp64wcgjkb9p/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-dc70-7648-bb6d-d2420c4c9bc5" available="true">
+        <name>UDM GROUP Лоток для приборов раздвижной, дерево</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-33-66sm-100062</url>
+        <price>2300</price>
+        <oldprice>2500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток UDM GROUP из натурального дерева. Регулируется по ширине, отделения разной ширины.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/tzfcfxnlhnwjmbx4drxg28f66kzz2q8b/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/2959zxtgqvjmscgd68tnjkctsmgkqc68/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/pv9nn5dlv4trvhdpbn69dnrd9mmr7g9j/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/thskz7cmzldfgz4vftsdfdqlh2br5z9k/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19396857/fxkl4xm6c58gmk98fmz44xb625knns4m/x2560</picture>
+        <param name="Количество отсеков">7</param>
+        <param name="Подходит для ящика">40, 45, 50, 55, 60</param>
+      </offer>
+      <offer id="019f09ef-dcad-7648-b37c-39737580e91f" available="true">
+        <name>UDM GROUP Столик-поднос «Нежность»</name>
+        <url>https://udmgroup.ru/products/stolik-nezhnost-dlya-zavtraka-v-postel-100063</url>
+        <price>1250</price>
+        <oldprice>1400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный столик для завтрака в кровати, выдерживает до 20 кг, со складными ножками и бортиками</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/flfcfxd2nm8dplkb6nm58v7ckqdsrzg5/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/ghpjftj9xj9gsfwr72cn8zdd6tb48wqw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/jzcnbkltf7wgl49txlfvkqpr848lm5xt/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/w5kxzs7pp7txzssl6lgrckh8f8gjz66s/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/mjlslk4x4rpzz5xr8bhxhlcdzppqs4vn/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-dd48-7648-b133-7cfa18fd7e35" available="true">
+        <name>UDM GROUP Лоток раздвижной для приборов 45–60 см</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-34-64h42sm-100067</url>
+        <price>2100</price>
+        <oldprice>2450</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток из натурального дерева для глубоких ящиков. Регулируется по ширине, отделения разной ширины.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21136051/xctsfx5f9s77s4k58h98l8snvtxbf75c/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/rbzsds65d89xcbgvg284q59kp7jk86dr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/v7rzn9wb6dnf9mxgc645wfmzbsspk27v/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/4svttqq7trtmtkx5q4w5gwhf2nzmhcj7/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/qsc8hq5qvdppr66h9lbx2rfcfkfwjmqd/x2560</picture>
+        <param name="Количество отсеков">8</param>
+        <param name="Подходит для ящика">40, 45, 50, 55, 60</param>
+      </offer>
+      <offer id="019f09ef-dd7f-7648-9be8-214d270dcbb6" available="true">
+        <name>UDM GROUP Столик-поднос «Гармония»</name>
+        <url>https://udmgroup.ru/products/stolik-garmoniya-dlya-zavtraka-v-postel-100068</url>
+        <price>1100</price>
+        <oldprice>1400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный столик-поднос с ручками, складными ножками. Выдерживает до 20 кг. Для завтрака в постели.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/jts9f4q2cr7xz2b5zmb27bffcpfff9m4/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/ghpjftj9xj9gsfwr72cn8zdd6tb48wqw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/88wvjstbjsv4dzpxrt5hm4blsnds7c2r/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/fj982bpglqtld2ll7v97b7lm4njk95dc/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/ln5hq769djrsw926wswjtrg2nfnb659j/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-deac-7648-840b-ac3e7e66a350" available="true">
+        <name>UDM GROUP Столик-поднос «Бриз» складной</name>
+        <url>https://udmgroup.ru/products/stolik-briz-dlya-zavtraka-v-postel-100074</url>
+        <price>1250</price>
+        <oldprice>1350</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Складной столик из берёзовой фанеры, держит до 20 кг. Удобен для завтрака в постели, перекусов.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/6d9gshv5k5b4sv6xll46gnv8m7jq4zcm/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/ghpjftj9xj9gsfwr72cn8zdd6tb48wqw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/42gf6m2kp5fhv8p92xbw9dwjl66xtdtj/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/hj5d8mkhxvl86nks48jv2rd4p2r2lkb6/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20760651/jq9vj5dkd8mgv6f7xm4rdbx8p57886ns/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+      <offer id="019f09ef-ded6-7648-9838-6f060b9f3d6d" available="true">
+        <name>UDM GROUP Столик-поднос «Грация»</name>
+        <url>https://udmgroup.ru/products/stolik-graciya-dlya-zavtraka-v-postel-100075</url>
+        <price>1250</price>
+        <oldprice>1400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Деревянный столик для завтрака в постель. Выдерживает до 20 кг, складные ножки, из берёзовой фанеры.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19396857/7km54cvlzdtfpbbkdkqlhcnblm6mlzkr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/ghpjftj9xj9gsfwr72cn8zdd6tb48wqw/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/m7d2crbdw7mlmrrbwt6dlzdrlm25v56m/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/4dlzptghvqgm5n4gl89xqk8c7tj4n2fl/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/hbxqqjxmmhn8w7l4w85rrvzx27tbkm4t/x2560</picture>
+        <param name="Максимальная нагрузка">20</param>
+        <param name="Материал изделия">береза</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
+

@@ -1,0 +1,30 @@
+name: Update VK YML Feed
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 07:00 МСК ежедневно
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate VK feed
+        run: python vk_feed.py --out vk-feed.yml
+
+      - name: Commit updated feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add vk-feed.yml
+          git diff --cached --quiet || git commit -m 'chore: update vk-feed.yml'
+          git push
