@@ -9,11 +9,8 @@
     </currencies>
     <categories>
       <category id="2">Не указана</category>
-      <category id="3">Посуда и инвентарь</category>
       <category id="10">Лотки для приборов</category>
       <category id="11">Подносы для шашлыка</category>
-      <category id="12" parentId="3">Подставки для чайных пакетиков</category>
-      <category id="13" parentId="3">Подставки для специй</category>
       <category id="17">Столики на кровать</category>
     </categories>
     <offers>
