@@ -81,6 +81,23 @@
         <param name="Максимальная нагрузка">20</param>
         <param name="Материал изделия">береза</param>
       </offer>
+      <offer id="019f09ef-d93d-7648-a9eb-9db48c241a8a" available="true">
+        <name>UDM GROUP Лоток для приборов раздвижной 45–60 см</name>
+        <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-34-64h44sm-100043</url>
+        <price>1590</price>
+        <oldprice>2450</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <vendor>UDM GROUP</vendor>
+        <description>Раздвижной лоток из натурального дерева. Регулируется под ширину ящика, съёмные крылья, отделения для приборов.</description>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/rnhl6ftv2fsjhmdnh29pzhmqsksjvpwr/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/gvrhpf4z8bmgqq5c7bx9f96j5569rx4w/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20760651/wd89qnwwmfzzkv7hmh5hqjpwgnb97k7m/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/v7rzn9wb6dnf9mxgc645wfmzbsspk27v/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/qsc8hq5qvdppr66h9lbx2rfcfkfwjmqd/x2560</picture>
+        <param name="Количество отсеков">8</param>
+        <param name="Подходит для ящика">40, 45, 50, 55, 60</param>
+      </offer>
       <offer id="019f09ef-da3e-7648-9574-c77851e78d13" available="true">
         <name>UDM GROUP Лоток для приборов раздвижной 50–80 см</name>
         <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-40-80sm-bolshoi-100049</url>
