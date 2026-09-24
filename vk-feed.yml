@@ -14,23 +14,6 @@
       <category id="17">Столики на кровать</category>
     </categories>
     <offers>
-      <offer id="019f09ef-d491-7648-8227-c526e3fad6cb" available="true">
-        <name>UDM GROUP Столик-поднос «Рассвет» из берёзы</name>
-        <url>https://udmgroup.ru/products/stolik-rassvet-dlya-zavtraka-v-postel-100017</url>
-        <price>790</price>
-        <oldprice>1400</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <vendor>UDM GROUP</vendor>
-        <description>Столик-поднос из натуральной берёзы. Нагрузка до 20 кг. Подходит для завтрака в постель, работы с планшетом.</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/j7hzvdqpr72tvx7kmrb5c27bxlkxjdmp/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/jl9m824ntk679xqkdwx67279gtc6dmgt/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/qh65kwmr77x2vz88fg7zgvtnwq854q72/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/21012869/mlnbhd5w4jfcmnbs79v4blq29mwh9rwc/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20274467/hhjgldlxbvbd6lz7b8gtkwzz9dr94b79/x2560</picture>
-        <param name="Максимальная нагрузка">20</param>
-        <param name="Материал изделия">береза</param>
-      </offer>
       <offer id="019f09ef-d4be-7648-8216-22cffd91656b" available="true">
         <name>UDM GROUP Поднос-подставка для шашлыка</name>
         <url>https://udmgroup.ru/products/podnos-podstavka-posuda-dlya-shashlyka-na-dachu-skladnoiy-100018</url>
