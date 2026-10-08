@@ -13,13 +13,44 @@
       <category id="11">Подносы для шашлыка</category>
       <category id="17">Столики на кровать</category>
       <category id="19">Спортивный товар</category>
-      <category id="20" parentId="19">Ватрушки</category>
-      <category id="21" parentId="19">Столы туристические</category>
+      <category id="20">Тюбинги и ватрушки</category>
+      <category id="21">Туристические столы</category>
       <category id="22">Коврики спортивные</category>
       <category id="23">Коврики туристические</category>
-      <category id="24" parentId="19">Ледянки</category>
+      <category id="24">Ледянки</category>
       <category id="25">Спортивные аксессуары</category>
       <category id="26" parentId="25">Матрасы для санок</category>
+      <category id="27">Санки детские</category>
+      <category id="28">Санки-коляски</category>
+      <category id="29">Снегокаты детские</category>
+      <category id="30">Аксессуары для санок</category>
+      <category id="31">Гладильные доски</category>
+      <category id="32">Чехлы для гладильных досок</category>
+      <category id="33">Коврики для глажки</category>
+      <category id="34">Сушилки для белья напольные</category>
+      <category id="35">Сушилки для белья настенные</category>
+      <category id="36">Сушилки для батарей и ванны</category>
+      <category id="37">Вешалки напольные</category>
+      <category id="38">Вешалки настенные</category>
+      <category id="39">Банкетки и обувницы</category>
+      <category id="40">Пуфы</category>
+      <category id="41">Этажерки и стеллажи</category>
+      <category id="42">Корзины и кофры для хранения</category>
+      <category id="43">Табуреты</category>
+      <category id="44">Складные стулья</category>
+      <category id="45">Складные столы</category>
+      <category id="46">Стремянки и лестницы</category>
+      <category id="47">Раскладушки</category>
+      <category id="48">Подставки для цветов</category>
+      <category id="49">Сумки-тележки</category>
+      <category id="50">Товары для ванной</category>
+      <category id="51">Шезлонги и складные кресла</category>
+      <category id="52">Туристические стулья</category>
+      <category id="53">Мангалы</category>
+      <category id="54">Товары для сада</category>
+      <category id="55">Детские столы и стулья</category>
+      <category id="56">Детские мольберты</category>
+      <category id="57">Детские аксессуары</category>
     </categories>
     <offers>
       <offer id="019f09ef-d491-7648-8227-c526e3fad6cb" available="true">
@@ -276,13 +307,13 @@
         <param name="Материал изделия">береза</param>
       </offer>
       <offer id="01a10d6a-2bf3-7087-81da-d7a187306eae" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, красный | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-100191</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет красный. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, рельефная поверхность, в комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/tvqcbd7sgswdfqg7m7mmm8f8l8pc88lm/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/52pqfkskrntbf4ppphls8jhrnt85w5vc/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/vv42mkb5lgdkc68vxv9mc4q946lnhk7p/x2560</picture>
@@ -291,13 +322,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-2d4d-7087-a512-9ef441759d71" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, васильковый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-1-100192</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет васильковый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик для йоги, фитнеса и тренировок. Толщина 8 мм, цвет васильковый, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/8xcn2qxbkqw4fncx765jg6n2z2wb9c5w/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/k6m7h7zmd5z8hrxrgqzdmv8mcstds4hm/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/4dg7shm85tvk9p5jphvqsmtztk554bzs/x2560</picture>
@@ -306,13 +337,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-2e97-7087-8cfe-fbc9414ba296" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, серый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-2-100193</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет серый. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/z49f64zhqr4znnzzqpq2cb9kdjqtft59/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20896824/v7lr7hp9fpvr7bpk8qrx4glx96m5lzd8/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/6r8lxvddscrgr545q9p5j8lvh5pcxpgh/x2560</picture>
@@ -321,13 +352,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-37c5-7087-bab4-6c20505f524f" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, красный | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-100200</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет красный. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/q85g64j286ks86ssvsdx9kj5lxr8s4zn/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/qznqwlhc9v8qp4vntpcgz29kkthhtlld/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/x4bz9sn4l5db9qsb4c75hq6gdxb5pxtd/x2560</picture>
@@ -336,13 +367,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-463a-7087-b5d1-ed4d3b14469e" available="true">
-        <name>Туристический коврик каремат 180×60 см, фиолетовый/васильковый</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-100211</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет фиолетовый/васильковый. Лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик из ППЭ для походов, рыбалки, пикника. Защищает от сырости, быстро сохнет, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/6mdvcpzrpj8g8sjbhlpkqqpsgqmh45st/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/m86jn94xjc2gqzcrnshmnpcttkfwjk5z/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/7lpjxc4v6pzcfblphpcmcjvtjg6fdv5w/x2560</picture>
@@ -351,13 +382,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-48d6-7087-b851-cf05b2f84e89" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, розовый/фуксия</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-3-100213</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет розовый/фуксия. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, цвет фуксия. В комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/kljhfjx2t9rcfgn9b85xwqkpc5fr6ptf/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/qwxnnk7r22n2x4grnfrgxslfnpg48zht/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/8s8h8x4cgw57v22gbzb8s7frpmwnm9fm/x2560</picture>
@@ -366,13 +397,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-4a27-7087-9a7d-436dfe530fa8" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, бирюзовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-1-100214</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет бирюзовый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, бирюзовый цвет, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/w7d8977d62dwhk4cm29wsf4r5jhgtd9q/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/nkjn9tmj8fzn78w8nhxchdblc4rfn6qf/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/rsznkwk96xhd8p6j972jcqt4bprddj6w/x2560</picture>
@@ -381,13 +412,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-521f-7087-8ffa-e1262c905449" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, фуксия | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, фуксия</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-2-100220</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет фуксия. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Коврик 180×60 см, толщина 8 мм. Для йоги, фитнеса, растяжки. Не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/nljnwd45fph66xck2v6gb99q6pbk97vd/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/xkg5wg8jfr9h58qztpwdvwz2ss65trcf/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/scg5mphxgp7zjfv9ppzl9xr5s8wqpkh8/x2560</picture>
@@ -396,13 +427,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-536b-7087-a5b0-4fd458f65346" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, зеленый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-3-100221</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет зеленый. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик для йоги, фитнеса и растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/5grthxgcnglzdx2z2wzgpbzp26nwd4ss/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/hms2fpfjbxnfl8l4nf7b74bh2wh7kr8r/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/5s2jw494vfp286bs5zhvxhhtfq7n8t8k/x2560</picture>
@@ -411,13 +442,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-574a-7087-980b-92de9253f048" available="true">
-        <name>Туристический коврик каремат 180×60 см, желтый/зеленый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-1-100224</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет желтый/зеленый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/bvb2xzkrvx9qbwddrd5m85qz6m6qkrjb/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/6whswvcptqpp74wbqkjxtqfmp9f8wctd/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/fpl9hwdww79hfcqnbtlwpvm98xzggz9x/x2560</picture>
@@ -426,13 +457,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-5891-7087-83fd-ce4fef9b5574" available="true">
-        <name>Туристический коврик каремат 180×60 см, желтый/фиолетовый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-3-100225</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет желтый/фиолетовый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, быстро сохнет.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/z5nkmlbg4lctwsxd9lsdwd7gfjsj7x94/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/nnlkxmq546kv2lkmnlfxh9kj2469dgfk/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/25kqjtldwdrrv7hpgmwdcvgmz2g8t7tl/x2560</picture>
@@ -441,13 +472,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-6843-7087-bd33-b89c3436d01f" available="true">
-        <name>Туристический коврик каремат 180×60 см, оранжевый/синий | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-6-100237</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет оранжевый/синий. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/x5m8sz8qbkb9tht7jcnj4pb68pvgt827/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/p2vxthpnfsjpjwf89l7p44trzlgltx8b/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/hbgt5x27xc545wb5qkq9cxw7wjx8r57m/x2560</picture>
@@ -456,13 +487,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-7039-7087-9da8-459301b17c6d" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, васильковый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-3-100243</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет васильковый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/54nv7whl6bwbttvb95tm85rn4kdrm84b/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/8nbf4mb8ss8tbfm78wk2r4xbc9zk4pvn/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/lclb7fhk74fjpbgqsntlvkhszhsk9hdw/x2560</picture>
@@ -471,13 +502,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-7193-7087-8bb2-d1e4c903752d" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, хаки | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, хаки</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-7-100244</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет хаки. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик 180×60 см, толщина 8 мм. Подходит для йоги, фитнеса, отдыха на природе. В комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/h92dvpvhwjsxrkzlngwh47zx946gtsm8/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/7m6mhddlxfwjjfffpnnv7xxgxwpngxhs/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/4xzj7svplhpdjfcww7kdgqmh489fc995/x2560</picture>
@@ -486,24 +517,24 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-72d2-7087-8973-c9081e0518ce" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, оливковый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-7-100245</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет оливковый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, оливковый цвет, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/48hzgsfltjxk6tzk7vwh5mwgbzcrt2fp/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-7948-7087-a16d-9ecbac30ce6b" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, зеленый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-4-100250</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет зеленый. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, не впитывает влагу, с рельефной поверхностью.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/wbtppcmspmqdrs9l2hgdhndqvz8h6kfq/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/vjr5xgzhgk8q7jpvb9vxbbhxxzx89j6b/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/gphg9fsbswb5ljwsxnjdsm5rf5vxv4jz/x2560</picture>
@@ -512,25 +543,25 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-7aa2-7087-b248-b8b5416559d6" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, желтый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-10-100251</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет желтый. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса, растяжки. Толщина 8 мм, жёлтый, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/4zknfhwpq2ncknmk6c2brpfbnpdtrrk5/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21012869/lglhl5c7qvj4v78rf7bcz4j6tqn4kvpw/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-87fd-7087-898a-b868324985bf" available="true">
-        <name>Туристический коврик каремат 180×60 см, красный/бирюзовый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-2-100261</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет красный/бирюзовый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик из ППЭ для походов, рыбалки, пикника, фитнеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/xpggwtcsz4g9gpmsdn4nh8n2qlv7jjcc/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/gzpspg7x6cc7rlpqsgkwbmx4x7qm48hn/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/29hs67vbtn4d88tdh8wsfdfn7jv78dhk/x2560</picture>
@@ -539,13 +570,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-894d-7087-b2eb-cbfe4ec2ed3b" available="true">
-        <name>Туристический коврик каремат 180×60 см, фиолетовый/оранжевый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-7-100262</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет фиолетовый/оранжевый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/gjgwrfr2qmz5pthxpcv7tck2p4x55pxx/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/7kxzh68wj6vvsnl84pndhv8jp82bnt9n/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/7svhbhvcmqc8mghjkkscwmwq6wbr9tj8/x2560</picture>
@@ -554,36 +585,36 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-8a95-7087-884c-b25805af4bd6" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, оранжевый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-6-100263</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет оранжевый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, рельефная поверхность, в комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/xhlwzzsglmdt754z6qzszdb9z4lwx65j/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21012869/lglhl5c7qvj4v78rf7bcz4j6tqn4kvpw/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-8be2-7087-96ef-41350f268cad" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, хаки | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, хаки</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-5-100264</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет хаки. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик 180×60 см, 8 мм. Для йоги, фитнеса, растяжки. Не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/2zs296tqtvswss7rgjtvn8vsvwgqcjbq/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-8d35-7087-adf4-1a898ac6209d" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, серый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-9-100265</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет серый. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19196982/wrftggw5stccf7g6bxjgcrptjqsg797c/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/s5flzpjhkbglkq22t2255prh6ssdt9rj/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/fv5stplwr9lhlrs8qs8txnqdgl97s2wb/x2560</picture>
@@ -592,13 +623,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-93e7-7087-9253-5073bc5f633d" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, фиолетовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-10-100270</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет фиолетовый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/mzfbfzptklkvcblrmdv6jknnxfh8jxsk/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/tcb8hkxs9j2zjdhgvmxhxzpzxm5x7wkb/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/zkf4w5q652zvqb6l9n7jkn2lp9xhz5pz/x2560</picture>
@@ -607,13 +638,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-97ca-7087-85b1-74b48d8439eb" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, зелено-серый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-22-100273</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет зелено-серый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/wvllzphs29wjg56lvw9cbbl7plzrdv9l/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/cg6vg7gr6bq5mm2bt68lfnjxclbfkm8p/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/z8strr429l7nmvs5fx4bw8xj9z4pf7t6/x2560</picture>
@@ -622,13 +653,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-9d2e-7087-aa5a-89656b42efa8" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, фиолетовый | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-fitnesa-turizma-180h60sm-100277</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет фиолетовый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, рельефная поверхность, в комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/c8q5sprbntsdcgjq4rvzwvtcb9cmz9dt/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21528387/nh62f2vlxhxkp65sxxx852f678twkskv/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/h9zqsdj8bvsv9xzr4mjl842hpvrw5fpq/x2560</picture>
@@ -636,26 +667,26 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-9fc1-7087-918e-bc86be7f7d29" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, бирюзовый/светло-бирюзовый</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-5-100279</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет бирюзовый/светло-бирюзовый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, рельефная поверхность, в комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/mpgzvw9h85dm7znn64rlwdn6ghp265k7/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/lz6cjcvkhvfcxv7kvd2fsnjsbp88rn5w/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21012869/lglhl5c7qvj4v78rf7bcz4j6tqn4kvpw/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-a103-7087-abb5-7da8f98bd525" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, лавандовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, лавандовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-14-100280</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет лавандовый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик 180×60 см, толщина 8 мм. Подходит для йоги, фитнеса, растяжки. В комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/fwrd9cfntsgvmfd86xgwt7gjnjgrwqc4/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21069123/j98bwxdkktvh4thzqhq8cqgjw5rjt9r5/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/bk6vw5wl2jhwmgdqfn5rb8jq2swfvvk5/x2560</picture>
@@ -664,13 +695,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-a4eb-7087-b3d6-33fd31905f42" available="true">
-        <name>Туристический коврик каремат 180×60 см, хаки/серый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-15-100283</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет хаки/серый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик из ППЭ, защищает от сырости, подходит для походов, рыбалки, фитнеса. В комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/7s45dc5glzjq9mrv8whtlbsfmd4htpts/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/wvctprgqvfpl5bxb4wlbkrqsgzsbktdj/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/wfqntdv2wkf86m4p8kn45lb6sf2bsppw/x2560</picture>
@@ -679,38 +710,38 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-a63f-7087-b555-450a830fb6cd" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, оливковый | UDM GROUP</name>
+        <name>Isolon Optima Light 8 — коврик для йоги 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-penka-1800h600h8mm-13-100284</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет оливковый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, оливковый цвет, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/9kgwk4bqlr8lb42cs9wpmr7whlrvfhml/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21012869/lglhl5c7qvj4v78rf7bcz4j6tqn4kvpw/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6a-a78e-7087-af96-ad6b77b1afea" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, оранжевый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-13-100285</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет оранжевый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/zrkjk4s9qwdgkjkxcnwqh88zgsn7sbzk/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/j2js88c87vs68rkldjf9nb4b5dw2v9n6/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21012869/lglhl5c7qvj4v78rf7bcz4j6tqn4kvpw/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-0a24-708d-b241-6e8f2c2bd56b" available="true">
-        <name>Туристический коврик каремат 180×60 см, фиолетовый/бирюзовый | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-10-100289</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет фиолетовый/бирюзовый. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, быстро сохнет.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/dxcg6245h56p7g6plg8sr85mzkdx2hvj/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/bn8sw7f9jg9d2mcdhg5rzpr7lkx9k72l/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/kvxqsngdpzs72tc89jnc5gb99brnnf4v/x2560</picture>
@@ -718,13 +749,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-0b7e-708d-9e23-647661c47bdf" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, фиолетовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-2-100290</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет фиолетовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Фиолетовый коврик для фитнеса, гимнастики, пилатеса. Лёгкий, компактный, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/4vkwf6zhbh627fwlwjcxfmszn5fr5xpw/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/zbgs5lh98km2fdkw759rm9tfl4l6w7nx/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/2xcjz4j4n25dbw4ngjmvswq4rjndkrc5/x2560</picture>
@@ -733,13 +764,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-1354-708d-b4e9-8842cc2595b6" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, светло-синий | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-15-100296</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет светло-синий. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, не впитывает влагу, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/x9krpc7hwtss7nxkzm67jz5jr2n9hwnw/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/c7m7w48wxbcjc5k8ktqdk8hh69th74kt/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/dc7jp77mmgbw6jmgsstc2kgj9pptn9hb/x2560</picture>
@@ -748,13 +779,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-14b3-708d-b64e-e0cf8a582aa1" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, оранжевый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-10-100297</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет оранжевый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/cq8qjmrcvqbhrwhfq8hzc9tjtzwnhccd/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/9pl4czqvh6gch8v7jh8gqzcsdj586r5p/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/zvfc9qr9xqkb4bzq2788llpdpz5pm2qx/x2560</picture>
@@ -763,13 +794,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-1e06-708d-8685-bf73d5b8ae28" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, светло-розовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-4-100304</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет светло-розовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка. Цвет — светло-розовый.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/gxxttjbrwxfkjg4zdwj7cc9clwk7dcvr/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/85w48p45q8ljf6rj6mdst4rqrmpjwkkv/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21553739/7fc4cl6f49lhdjw2tpb9l46pzc5zf26r/x2560</picture>
@@ -778,13 +809,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-2376-708d-8563-3007c155eb03" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, красный | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, красный</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-16-100308</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет красный. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/9dr79b8dw5h55pv52jndpzpcvw97tbxx/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19196982/vqgkmplbdphtcjs2fqdkkjbndv2jd2hs/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/v7599jqp8ftkq55rqjj9r55mfwr82w6m/x2560</picture>
@@ -793,13 +824,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-2b66-708d-9042-2ccd00c8b6cc" available="true">
-        <name>Коврик для йоги и фитнеса Norma Light 8 180×60, васильковый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для йоги Norma Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-i-fitnesa-norma-light-8-1800h600h8mm-6-100314</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Norma Light 8 180×60 см, толщина 8 мм, цвет васильковый. Пенополиэтилен, лёгкий, с резинкой для переноски.</description>
+        <description>Мягкий коврик от UDM GROUP для йоги, фитнеса, растяжки. Толщина 8 мм, цвет васильковый, с резинкой для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/9vcflg9tlqgfc5ssbmtb726p92c86f5w/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/dlrl6nr24dkngnk6dmkdnm9nbs9m5vhd/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/c5zqgp72vknbgzhjg96g67tvn9hlzgnz/x2560</picture>
@@ -808,26 +839,26 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-2cb6-708d-9e0c-d0504e5a1cb0" available="true">
-        <name>Туристический коврик каремат 180×60 см, красный/синий | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-14-100315</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет красный/синий. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, быстро сохнет.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/9vf66qvl5pkcgzzftml5t6qdxm65hgp6/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/xlqsjgr4qpf88pdcp7j57xlnrt4pw7lt/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/92d864plc9h6lqpd5xf52h2kdvbct2nn/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-2e02-708d-9a4b-30ff6195dfb7" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, темно-серый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-17-100316</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет темно-серый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/rmjdq44t69sp9hrbczccc92vtlssvtbn/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/mj72pft5n96kvlmgq9hkdzrdkfg4j5hl/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/vtnx6kw487gcqt4xx6k8llgr5vdp7ztl/x2560</picture>
@@ -836,13 +867,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-2f76-708d-8c42-667f54a8770f" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, голубой | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, голубой</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-13-100317</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет голубой. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/gw7nlcdx52mnp46m6t4gfxmwxtbcpqkx/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/dnc45zkn8clwgqqps62bstgn8zbm6l7q/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/55s8f8kftv8mvl59bfqjsp776j7ksx8k/x2560</picture>
@@ -851,13 +882,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-35df-708e-95b7-55c5e9f4d22c" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, бордовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, бордовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-7-100322</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет бордовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/kn6rz6cg568dcmzgxpnqtx4q4zxtl646/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/s7lp4lqcfz8qd67s7s224n79ttjmlhq5/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/h97x2r4wgzch2qtkxgkmlm6bpnpcfl7c/x2560</picture>
@@ -866,13 +897,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-372e-708e-a61c-39c3cf6a0297" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, ярко-зеленый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-6-100323</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет ярко-зеленый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/64q765qn9kr72sx599gwqb96ttc2cm47/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/2hm9h7zgvwkd8bc595b5mgwzqzdwnrzg/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/gxnwnt92jtzt72g56ft7dqwslkn26drp/x2560</picture>
@@ -881,39 +912,39 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-3c72-708e-8007-3112531b5402" available="true">
-        <name>Туристический коврик каремат 180×60 см, лимонный/красный | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-28-100327</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет лимонный/красный. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, быстро сохнет.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/x5s5b6qjnsbq52kwcmr6dkxh2wts8zj2/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/kc9g9g98c2rk6pw4b6mtq2lvc5ct8lxq/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/zmwwd5slh222m9fqkkzkbtqm8z88pm5n/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-3dc2-708e-a30a-fc9ebe9c6ff5" available="true">
-        <name>Туристический коврик каремат 180×60 см, зеленый/синий | UDM GROUP</name>
+        <name>UDM GROUP Каремат туристический 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-i-iyogi-sportivnyiy-neskolzyashchiiy-plotnyiy-9-100328</url>
         <price>1010</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Туристический коврик (каремат) 180×60 см, толщина 8 мм, цвет зеленый/синий. Пенополиэтилен: лёгкий, не промокает. Для палатки, похода, пикника и фитнеса.</description>
+        <description>Лёгкий коврик от UDM GROUP — для походов, рыбалки, пикника, фитнеса. Не впитывает влагу, быстро сохнет.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/bjszvd95bhm8jhkwt5zsbrlpxhw79hw9/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/l9tk6l9h7mj9f7wg779g5f98wxlwb92p/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/zfzbcq5mgx2jh84hnff7fvq47nm76nfm/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-445a-708e-afc4-ef4d7589464b" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, лавандовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, лавандовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-23-100333</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет лавандовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/96h4n7pzqzq6w5rqzg6dbl4s466bfkkt/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/x94j7kl7wddk4tfkfw5s7gmmn954n6dv/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21580234/lmvj54frn6hmwwmv2rsr7cnxfq6dfd5c/x2560</picture>
@@ -922,13 +953,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-4842-708e-baf2-494cd61978d0" available="true">
-        <name>Коврик для йоги и фитнеса Optima Light 8 180×60, синий | UDM GROUP</name>
+        <name>Isolon коврик для йоги Optima Light 8, 180×60 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-iyogi-fitnesa-i-turizma-180h60sm-100336</url>
         <price>1020</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>Isolon</vendor>
-        <description>Спортивный коврик для йоги и фитнеса Optima Light 8 180×60 см, толщина 8 мм, цвет синий. Пенополиэтилен, лёгкий, с резинкой для переноски. Купить в UDM GROUP.</description>
+        <description>Мягкий коврик от Isolon для йоги, фитнеса и тренировок. Толщина 8 мм, рельефная поверхность, в комплекте резинка.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/qnh7q5f6pmfjnvqw8n7dn2q42nbxr2fx/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/tmdrgq8bf4jqkn625f9t6xzbt9nv7xvg/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/gdvvjbzzpqjf76rr9vgcmpkdjxqkhh9g/x2560</picture>
@@ -937,13 +968,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-49aa-708e-8f07-ca86bb4b1d49" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, розовый фламинго | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см розовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-9-100337</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет розовый фламинго. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/5tsc4lnc2wm2bhrplmfnmc8dqlbsknx9/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/7x5mk6fkfmmdrk8qlw969pjmg8pmwlmj/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20069348/gh9vqwqh8g2r45d7hgxm9mcrmd9ql2fc/x2560</picture>
@@ -952,13 +983,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-4afa-708e-89f2-cef981f092a9" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, желтый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, 5 мм, жёлтый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-26-100338</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет желтый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик от UDM GROUP для фитнеса, пилатеса, гимнастики. С резинкой для переноски, не впитывает влагу.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/b977l674gh7c5hplx4tpv57xgdlk52wq/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20493671/pwkhmmdbfn4wlrgjdqcws94mkn7fgwxw/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/t8lvgkw7xvz9ch7kcbdn58zx2z4qphl6/x2560</picture>
@@ -967,38 +998,38 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-5303-708e-8bf0-8adae54b6492" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, лимонный | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, лимонный</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-63-100344</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет лимонный. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса и гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/npncc4g7mfb5p5xrpdpgdbxt85m4rkd7/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/gsvl6wmx8zjsl5hvnmqkmgjv59nk5f4m/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/ql2t8l5cs7r5mhpq5c9522zvgxcgk2q5/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-5f33-708e-b2ec-af9e93d4a8c7" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, красновато-бордовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-38-100353</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет красновато-бордовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/9vzv52j9pkqgjv5f97mktpfnj8zh86pw/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21136051/5tjw25zvgwdm62tjcsgfdq44plllzkvv/x2560</picture>
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-607f-708e-ac27-5a596d59f823" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, синий | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, синий</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-27-100354</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет синий. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/vbtpd4trddshp54j58txfwgcg85m6rls/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/trwmrkcg9k9f8kct7mrc7xlv72tgnsdp/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/4sz7zn9dmrx74zlqbgz4tt7xw8t7mz82/x2560</picture>
@@ -1007,13 +1038,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-61dc-708e-9f6c-540a05f78ee3" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, розовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, розовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-10-100355</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет розовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/p42tvj4ld5qvf6vphxd9mcw4frgzqgnk/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21553739/vf89dr7k7jmf7rf47tdvdd7q7fdrhdfl/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/grw2fpvs92mfsmc85jvblx9pd7fzmbjk/x2560</picture>
@@ -1022,13 +1053,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-671f-708e-b9a6-d20afa7a01d5" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, серебристый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, серебристый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-30-100359</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет серебристый. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/7dnxdz5dhl7dgcjzz6bp5k6p9hxht7xj/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/tp26bfhtz2zmdcxhctq45dbv9dz6k5nd/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/7trftdkbq8rv6nnn4q7tx5zvs584j7jn/x2560</picture>
@@ -1037,13 +1068,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-71b1-708e-8cd2-9679189e6111" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, лайм | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, лайм</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-29-100367</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет лайм. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/21497181/4fb628k6vb4lj9j9l95s7km2rbxvj4c4/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/rhd9drr6g9shczvklt4b8x8l4nf62j62/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/9qqnpsfd2ctrqd2tl5v9wphdszkn92qw/x2560</picture>
@@ -1052,13 +1083,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-72fe-708e-b022-5ccbada4d9cb" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, бирюзовый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, бирюзовый</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-31-100368</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет бирюзовый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/brgg2m65x4ns24pt6prrf22c4zm58zzk/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/lb4v8b249bjqjvs29s7cl8sll8qfvsdl/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/r9nvsl4tkfs6srzvkvcxhh5zzclm6p4d/x2560</picture>
@@ -1067,13 +1098,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-7ee2-708e-9a88-294b2186984e" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, графит | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, графит</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-47-100377</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет графит. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/psxnpxd52q7dslvqv8gzchbtbtkc7sj8/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20575719/b7kddfxvslrwjhw6sdfhlmvtc86g85ks/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21553739/gtzdlk8qvxc6tghk6cb5ggcbt8d6vj8v/x2560</picture>
@@ -1082,13 +1113,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-858e-708e-8049-fe39c0983b48" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, зеленый | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, зелёный</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-neskolzyashchiiy-48-100382</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет зеленый. Лёгкий пенополиэтилен, резинка для переноски в комплекте. Купить в UDM GROUP.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, пилатеса, гимнастики. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/19782553/64q765qn9kr72sx599gwqb96ttc2cm47/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/glk2dfqqznq4pq5b7l86skbfmc4f5c92/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18764786/x8gxssv4zblh7l4jwpnk74bpddxnphhc/x2560</picture>
@@ -1097,13 +1128,13 @@
         <param name="Материал изделия">пенополиэтилен</param>
       </offer>
       <offer id="01a10d6b-86ec-708e-98f5-9770a398352b" available="true">
-        <name>Коврик для фитнеса и пилатеса 150×50 см, розовая пудра | UDM GROUP</name>
+        <name>UDM GROUP Коврик для фитнеса 150×50 см, розовая пудра</name>
         <url>https://udmgroup.ru/products/kovrik-dlya-fitnesa-sporta-gimnastiki-trenirovok-jenskiiy-14-100383</url>
         <price>830</price>
         <currencyId>RUB</currencyId>
         <categoryId>22</categoryId>
         <vendor>UDM GROUP</vendor>
-        <description>Коврик для фитнеса, гимнастики и пилатеса 150×50 см, толщина 5 мм, цвет розовая пудра. Лёгкий пенополиэтилен, резинка для переноски в комплекте.</description>
+        <description>Лёгкий коврик из ППЭ для фитнеса, гимнастики, пилатеса. В комплекте резинка для переноски.</description>
         <picture>https://avatars.mds.yandex.net/get-yastore/18793859/476jfqd7c9xdrnpxnlrxm9wf5mjglx74/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/20776375/nrf6q25zp8wqgqz2bwcnjqtt8s68bz5p/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/18780052/nr8hsj4962mwglsvqzx2hkxcmbtwnmjl/x2560</picture>
