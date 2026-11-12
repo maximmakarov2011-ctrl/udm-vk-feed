@@ -199,23 +199,6 @@
         <param name="Количество отсеков">6</param>
         <param name="Подходит для ящика">30, 35, 40, 45, 50</param>
       </offer>
-      <offer id="019f09ef-db77-7648-ac57-b972b9a8c6f6" available="true">
-        <name>UDM GROUP Столик «Изящный» для ноутбука и завтрака</name>
-        <url>https://udmgroup.ru/products/stolik-izyashchnyy-dlya-zavtraka-i-noutbuka-100056</url>
-        <price>1290</price>
-        <oldprice>2090</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <vendor>UDM GROUP</vendor>
-        <description>Деревянный столик на кровать, столешница 50×30 см, выдерживает до 20 кг, складные ножки</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20069348/kd85dbrxm9wxdkgz6hvkwbqg56sgnf7f/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/2fhxdmgspnznmh2n54rwdbml6qjrvsv7/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/xkhpqfjg9kcpxhhh6rdfpx8xrlskl5nd/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/x26flr9fcvtf94j8lvv2crstwq52tt4z/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20776375/cmdmkv5tdzws9rghrwrq9gsk4948v849/x2560</picture>
-        <param name="Максимальная нагрузка">20</param>
-        <param name="Материал изделия">береза</param>
-      </offer>
       <offer id="019f09ef-dc70-7648-bb6d-d2420c4c9bc5" available="true">
         <name>UDM GROUP Лоток для приборов раздвижной, дерево</name>
         <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-33-66sm-100062</url>
@@ -9583,8 +9566,7 @@
       <offer id="01a1c77b-3806-7b72-972c-5b8eeafe00f8" available="true">
         <name>Менажница «Ёлка» из берёзовой фанеры — UDM Group</name>
         <url>https://udmgroup.ru/products/menajnica-yelka-udm-group-103245</url>
-        <price>3000</price>
-        <oldprice>3350</oldprice>
+        <price>800</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9595,8 +9577,7 @@
       <offer id="01a1c77b-44a7-7b72-9ed3-ae95bd18f2b9" available="true">
         <name>Настольная салфетница из берёзовой фанеры — UDM Group</name>
         <url>https://udmgroup.ru/products/salfetnica-i-yashchichek-dlya-speciiy-udm-group-103246</url>
-        <price>2750</price>
-        <oldprice>3100</oldprice>
+        <price>800</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9607,8 +9588,7 @@
       <offer id="01a1c77b-51a9-7adf-9a65-4f16a7e4c197" available="true">
         <name>Ключница «Домик» с полкой и крючками — UDM Group</name>
         <url>https://udmgroup.ru/products/klychnica-domik-s-polkoiy-udm-group-103247</url>
-        <price>3050</price>
-        <oldprice>3400</oldprice>
+        <price>900</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9619,8 +9599,7 @@
       <offer id="01a1c77b-5d63-7143-bdb2-b1e8a7327d7d" available="true">
         <name>Настольная этажерка на три яруса из фанеры — UDM Group</name>
         <url>https://udmgroup.ru/products/nastolnaya-etajerka-na-tri-yarusa-udm-group-103248</url>
-        <price>3700</price>
-        <oldprice>4150</oldprice>
+        <price>1150</price>
         <currencyId>RUB</currencyId>
         <categoryId>41</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9631,8 +9610,7 @@
       <offer id="01a1c77b-6a8a-7b72-a2b6-c276c4e8a1cd" available="true">
         <name>Три одинаковые доски с подставкой — набор UDM Group</name>
         <url>https://udmgroup.ru/products/nabor-iz-tryeh-odinakovyh-dosok-s-podstavkoiy-udm-group-103249</url>
-        <price>3400</price>
-        <oldprice>3800</oldprice>
+        <price>1100</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9643,8 +9621,7 @@
       <offer id="01a1c77b-75e9-7b72-9e9d-e677da280c83" available="true">
         <name>Настольный органайзер для столовых приборов — UDM Group</name>
         <url>https://udmgroup.ru/products/nastolnyiy-organaiyzer-dlya-priborov-udm-group-103250</url>
-        <price>3050</price>
-        <oldprice>3400</oldprice>
+        <price>850</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9655,8 +9632,7 @@
       <offer id="01a1c77b-81b7-7143-a1fd-1e88e599ed2d" available="true">
         <name>Органайзер для бумаг A4 с тремя полками — UDM Group</name>
         <url>https://udmgroup.ru/products/organaiyzer-dlya-bumag-a4-udm-group-103251</url>
-        <price>4450</price>
-        <oldprice>4950</oldprice>
+        <price>1400</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9667,44 +9643,40 @@
       <offer id="01a1c77b-8da1-7a8d-bf0b-85f0020448d7" available="true">
         <name>Органайзер для маркеров 3×4 — UDM Group</name>
         <url>https://udmgroup.ru/products/organaiyzer-dlya-markerov-34-udm-group-103252</url>
-        <price>4250</price>
-        <oldprice>4750</oldprice>
+        <price>1450</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
         <description>Органайзер UDM Group из фанеры: решётка 3×4, 12 открытых ячеек для распределения маркеров по цветам или наборам.</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/21223692/tn9957fxq5j7mnwwq4ktn6j5sd5744zj/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21223692/xrxhbscs6rxwxzk2vcctt2z8nkkp6rn5/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21223692/q92z229m4927h6bwd4lrkk755279t56q/x2560</picture>
       </offer>
       <offer id="01a1c77b-99aa-7a8d-8f92-709df726443e" available="true">
         <name>Органайзер для маркеров 4×4 — UDM Group</name>
         <url>https://udmgroup.ru/products/organaiyzer-dlya-markerov-44-udm-group-103253</url>
-        <price>4750</price>
-        <oldprice>5300</oldprice>
+        <price>1700</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
         <description>Органайзер UDM Group из фанеры: решётка 4×4, 16 открытых ячеек для распределения маркеров по цветам или наборам.</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/21432081/429m98cwlwzx427r6h47nzcs87ds862p/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21674320/mqrjrp24nb5mvqxfgfmvd54tzgq4zqpg/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21223692/2plx25q6s8jvr4x55hm7xckm97b42lw9/x2560</picture>
       </offer>
       <offer id="01a1c77b-aa71-7b72-8cb6-7e9e2b935ae6" available="true">
         <name>Органайзер для маркеров 5×5 — UDM Group</name>
         <url>https://udmgroup.ru/products/organaiyzer-dlya-markerov-55-udm-group-103254</url>
-        <price>5750</price>
-        <oldprice>6400</oldprice>
+        <price>2150</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
         <description>Органайзер UDM Group из фанеры: решётка 5×5, 25 открытых ячеек для распределения маркеров по цветам или наборам.</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/21223692/zgtqr495xvsl5pnd5zdbflxfm4rkzv59/x2560</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21223692/hz7r27zrbcd8v8mtschbjzqqm6ggqfcq/x2560</picture>
         <picture>https://avatars.mds.yandex.net/get-yastore/21223692/znzcjfx6dlnsqkfr78x7xft4cn2szvhd/x2560</picture>
       </offer>
       <offer id="01a1c77b-b647-7b72-a3f3-9bb57c99792c" available="true">
         <name>Корзина для бумаги из фанеры — UDM Group</name>
         <url>https://udmgroup.ru/products/korzina-dlya-bumagi-udm-group-103255</url>
-        <price>4100</price>
-        <oldprice>4600</oldprice>
+        <price>1350</price>
         <currencyId>RUB</currencyId>
         <categoryId>42</categoryId>
         <vendor>UDM GROUP</vendor>
@@ -9715,8 +9687,7 @@
       <offer id="01a1c790-1e9c-7a8d-a30d-7f2c2c3fdf45" available="true">
         <name>Ящичек для специй из берёзовой фанеры — UDM Group</name>
         <url>https://udmgroup.ru/products/yashchichek-dlya-speciiy-udm-group-103256</url>
-        <price>2800</price>
-        <oldprice>3150</oldprice>
+        <price>800</price>
         <currencyId>RUB</currencyId>
         <categoryId>58</categoryId>
         <vendor>UDM GROUP</vendor>
