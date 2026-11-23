@@ -200,23 +200,6 @@
         <param name="Количество отсеков">6</param>
         <param name="Подходит для ящика">30, 35, 40, 45, 50</param>
       </offer>
-      <offer id="019f09ef-db77-7648-ac57-b972b9a8c6f6" available="true">
-        <name>UDM GROUP Столик «Изящный» для ноутбука и завтрака</name>
-        <url>https://udmgroup.ru/products/stolik-izyashchnyy-dlya-zavtraka-i-noutbuka-100056</url>
-        <price>1290</price>
-        <oldprice>2090</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <vendor>UDM GROUP</vendor>
-        <description>Деревянный столик на кровать, столешница 50×30 см, выдерживает до 20 кг, складные ножки</description>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20069348/kd85dbrxm9wxdkgz6hvkwbqg56sgnf7f/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/2fhxdmgspnznmh2n54rwdbml6qjrvsv7/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/xkhpqfjg9kcpxhhh6rdfpx8xrlskl5nd/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/x26flr9fcvtf94j8lvv2crstwq52tt4z/x2560</picture>
-        <picture>https://avatars.mds.yandex.net/get-yastore/20776375/cmdmkv5tdzws9rghrwrq9gsk4948v849/x2560</picture>
-        <param name="Максимальная нагрузка">20</param>
-        <param name="Материал изделия">береза</param>
-      </offer>
       <offer id="019f09ef-dc70-7648-bb6d-d2420c4c9bc5" available="true">
         <name>UDM GROUP Лоток для приборов раздвижной, дерево</name>
         <url>https://udmgroup.ru/products/lotok-dlya-stolovyh-priborov-razdvizhnoy-33-66sm-100062</url>
